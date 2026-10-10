@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Name=Zorin Desktop Monitor
+Name[pl]=Kafelkowy Monitor Pulpitu (CPU, RAM, Dysk)
+Comment=Monitor zasobów CPU, RAM i dysku w postaci kafelków na pulpicie
+Comment[pl]=Kafelkowy monitor użycia procesora, pamięci RAM i dysku na pulpicie
+Exec="/home/mariusz/Documents/AntyGravity/ZorinMonitor/run.sh" --daemon
+Icon=/home/mariusz/Documents/AntyGravity/ZorinMonitor/assets/icon.svg
+Terminal=false
+Categories=System;Monitor;Utility;
+Keywords=cpu;ram;dysk;pamięć;procesor;monitor;kafelki;pulpit;
+StartupNotify=false
+X-GNOME-Autostart-enabled=true
